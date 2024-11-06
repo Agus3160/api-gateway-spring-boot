@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="domain-and-dto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/project.fiuni/lib/domain-and-dto.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
